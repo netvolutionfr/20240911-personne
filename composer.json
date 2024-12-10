@@ -1,0 +1,17 @@
+{
+    "name": "stanis/20240911-personne",
+    "autoload": {
+        "psr-4": {
+            "Stanis\\20240911Personne\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stanis Humez",
+            "email": "stanis@netvolution.fr"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.4"
+    }
+}
